@@ -21,9 +21,7 @@ int main(){
     return 0;
 }
 
-
 What will be the output?
-
 a) 0  
 b) 5  
 c) 9  
