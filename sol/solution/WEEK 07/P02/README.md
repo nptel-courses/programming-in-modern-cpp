@@ -12,3 +12,7 @@ b) py = dynamic_cast<Y*>(px);
 c) py = reinterpret_cast<Y*>(px);
 d) py = const_cast<Y*>(px);
 ```
+
+```cpp
+c) py = reinterpret_cast<Y*>(px);
+```
