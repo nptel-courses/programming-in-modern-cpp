@@ -43,3 +43,7 @@ b) Child Child Parent Parent
 c) Child Child Parent std::bad_cast
 d) Child Parent Child Parent
 ```
+
+```cpp
+c) Child Child Parent std::bad_cast
+```
