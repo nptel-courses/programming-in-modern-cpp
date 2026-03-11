@@ -216,6 +216,10 @@ b) LINE-2
 c) LINE-3
 d) LINE-4
 ```
+```cpp
+c) LINE-3
+d) LINE-4
+```
 
 ## **PROBLEM 07**
 ```cpp
