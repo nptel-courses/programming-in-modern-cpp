@@ -29,8 +29,7 @@ int main() {
     return 0;
 }
 
-hat will be the output/error?
-
+What will be the output/error?
 a) C++ Modern Programming
 b) Modern C++ Programming
 c) Programming Modern C++
