@@ -24,16 +24,16 @@ int main(){
 }
 
 What will be the output/error?
-a) 12, 7
-7, 12, 12
+a)  12, 7
+    7, 12, 12
 
-b) 8, 7
-7, 9, 12
+b)  8, 7
+    7, 9, 12
 
-c) Compiler error at LINE-1: assignment of read-only variable 's'
+c)  Compiler error at LINE-1: assignment of read-only variable 's'
 
-d) 8, 7
-7, 7, 12
+d)  8, 7
+    7, 7, 12
 */
 
 #include <iostream>
